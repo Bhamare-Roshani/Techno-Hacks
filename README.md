@@ -1,2 +1,3 @@
 # Techno-Hacks
-TechnoHacks python programming 3rd task
+TechnoHacks python programming Task
+
